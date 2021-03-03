@@ -1,0 +1,7 @@
+<project name="mnm" default="WAR-build" basedir=".">
+	<description>mnm - Build file</description>
+	
+	<import file="buildProperties.xml"/>
+	<import file="buildTasks.xml"/>
+	
+</project>
